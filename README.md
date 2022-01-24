@@ -6,5 +6,4 @@
 
 # But, the following slides are not in the final exam
  
-# - 7.4, 7.5, 7.6, 7.7
-# - 8.2
+# - 7.4, 7.5, 7.6, 7.7, - 8.2
