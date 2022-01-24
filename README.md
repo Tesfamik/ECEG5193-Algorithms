@@ -2,7 +2,9 @@
 
 Notes for Final Exam:
 
-The following slides are not in the final exam
+Final Exam consists of chapters strating from 5.1 to 8.2
 
+But, the following slides are not in the final exam
+- 
 - 7.4, 7.5, 7.6, 7.7
 - 8.2
