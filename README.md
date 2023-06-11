@@ -2,7 +2,7 @@
 
 # Notes for Final Exam:
 
-# Final Exam consists of chapters strating from 5.1 to 8.2
+# Final Exam consists of chapters starting from 5.1 to 8.2
 
 # But, the following slides are not in the final exam
  
